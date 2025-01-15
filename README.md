@@ -1,5 +1,5 @@
 # Medication-Dispensor
-A device to make informal caregivers' jobs easier and is more accurate regarding sorting the medicine and the time it should be consumed. It is made to reduce medication error, a commonly made mistake made by hospital nurses due to the complexity of managing multiple medications, time pressures, and the risk of miscommunication which involves losing/misplacing pills or treating medicine at the wrong time. 
+This project focuses on the development of a medication dispenser designed to reduce medication errors in hospitals and among informal caregivers. The device leverages STM32 microcontrollers and STM32CubeIDE to automate the dispensing process, ensuring that medications are administered accurately and on time. By addressing common issues such as the complexity of managing multiple medications, time pressures, and the risk of miscommunication, the dispenser helps minimize errors caused by losing or misplacing pills or administering them at the wrong time. Through precise PWM control, UART communication, and custom 3D-printed mechanical components, this device offers a reliable solution to improve medication management for both healthcare professionals and caregivers.
 
 ## Electric Design Graphic
 ![image](https://github.com/user-attachments/assets/c5c711d2-d3c6-4ecf-878f-5de753af2b7b)
