@@ -8,6 +8,50 @@ This project focuses on the development of a medication dispenser designed to re
 <img src="https://github.com/user-attachments/assets/258735e3-cf90-4673-b73b-7fc53ff7215c" width="500" height="550">
 <img src="https://github.com/user-attachments/assets/38fa8226-2f30-42b5-837f-44cf1c188df0" width="500" height="600">
 
+## User Manual 
+### 1. Introduction 
+
+This manual is meant to detail how to use the medication dispensary device.  
+
+ 
+
+### 2. Safety Precautions 
+
+Refer to installation manual  
+
+This dispenser was meant to hold medication, do not place other objects within as they may cause a hazard 
+
+ 
+
+### 3. Instructions  
+
+To place medication in the device 
+
+Take off the lid of the device  
+
+Place medication (each type in a different compartment) within the containers 
+
+Place lid back onto the device 
+
+Plug the device into the provided power supply 
+
+To input the number of medications to be dispensed  
+
+View the button system attached to the first microcontroller  
+
+Select which compartment (1, 2, 3, 4, 5) you wish to edit by pressing its corresponding button (see figure below)  
+
+After selecting the compartment, press the Count Button the same number of times as the amount of medication to dispense (for example, to dispense 3 pills, press the button three times)  
+
+ Press the Enter Button to confirm the amount of medication to be dispensed 
+
+Repeat the above for all other compartments
+
+
+To reset all amounts for each compartment, press the Reset Button  
+
+<img src="https://github.com/user-attachments/assets/286a361c-695c-41f5-995a-7f88cec7a5b9" width="500" height="600">
+
 ## Installation Manual
 ### 1. Introductionn
 This manual is meant for use by licensed medical professionals, technicians, and formal and informal caregivers. It details how to safely and correctly install the medication dispensing device. 
