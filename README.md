@@ -50,7 +50,7 @@ Repeat the above for all other compartments
 
 To reset all amounts for each compartment, press the Reset Button  
 
-<img src="https://github.com/user-attachments/assets/286a361c-695c-41f5-995a-7f88cec7a5b9" width="500" height="600">
+<img src="https://github.com/user-attachments/assets/286a361c-695c-41f5-995a-7f88cec7a5b9" width="500" height="300">
 
 ## Installation Manual
 ### 1. Introductionn
