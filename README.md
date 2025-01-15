@@ -7,5 +7,6 @@ This project focuses on the development of a medication dispenser designed to re
 ## Overview:
 ![image](https://github.com/user-attachments/assets/258735e3-cf90-4673-b73b-7fc53ff7215c)
 ![843A2499-DD73-4C5C-BBFC-15C90B41B251](https://github.com/user-attachments/assets/38fa8226-2f30-42b5-837f-44cf1c188df0)
+<img src="https://github.com/user-attachments/assets/38fa8226-2f30-42b5-837f-44cf1c188df0" width="100" height="100">
 
 
