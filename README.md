@@ -9,10 +9,10 @@ This project focuses on the development of a medication dispenser designed to re
 <img src="https://github.com/user-attachments/assets/38fa8226-2f30-42b5-837f-44cf1c188df0" width="500" height="600">
 
 ## Installation Manual
-# 1. Introductionn
+### 1. Introductionn
 This manual is meant for use by licensed medical professionals, technicians, and formal and informal caregivers. It details how to safely and correctly install the medication dispensing device. 
 
-# 2. Safety Precautions
+### 2. Safety Precautions
 This device is only intended to be used with the included power supply (5V)  
 
 This device must be placed on a flat, secure surface  
@@ -23,14 +23,14 @@ Do not exceed the maximum capacity for each medicine compartment (do not allow c
 
  
 
-# 3. Assembly 
+### 3. Assembly 
 Unpackage and place device on a flat, stable and secure surface, (for example, a table or counter) 
 
 Ensure that the microcontroller is correctly placed below the device, and that all wires to both motors are correctly connected 
 
 Store the device in a dry environment (note: make sure that the device is stored at a temperature most appropriate for the medication being dispensed), and place the lid securely on top of the cylindrical container  
 
-# 4. Initial Setup and Testing  
+### 4. Initial Setup and Testing  
 
 Place the second microcontroller one meter away from the main device 
 
@@ -44,7 +44,7 @@ Note: See user manual for more detailed instructions
 
 Wait to observe the medication being dispensed  
 
- # 4. Maintenance 
+ ### 5. Maintenance 
 
 Clean the dispenser and its compartments regularly using a dry or slightly damp cloth to avoid dust buildup 
 
@@ -52,7 +52,7 @@ Thoroughly clean before switching medications in each compartment
 
 Periodically check to make sure the motor, microcontrollers and buttons continue to work properly 
 
- # 5. Troubleshooting 
+ ### 6. Troubleshooting 
 
 If the dispenser servo is unable to move each compartment, or is unable to open the hatch to dispense medication, or both: 
 
